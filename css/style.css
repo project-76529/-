@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.header-logo {
+    display: flex;
+  }
+
+
+.top {
+    /* background-image: url(../img/office-1834294_640.jpg); */
+    background-size: cover;
+}
+.carousel-item {
+    height: auto;
+}
